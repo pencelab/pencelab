@@ -8,13 +8,13 @@
 
 </p>
 <p align="center" class="mb-2">
-    <a href="https://pencelab.com">
+    <a href="https://pencelab.com" target="_blank">
         <img src="https://img.shields.io/badge/https://-pencelab.com-0091FF?style=flat" />
     </a>
-    <a href="https://play.google.com/store/apps/dev?id=4932166772676058307">
+    <a href="https://play.google.com/store/apps/dev?id=4932166772676058307" target="_blank">
         <img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/company/pencelab">
+    <a href="https://www.linkedin.com/company/pencelab" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
     </a>
 </p>
