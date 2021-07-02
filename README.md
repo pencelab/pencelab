@@ -7,7 +7,7 @@
 ![](https://user-images.githubusercontent.com/14246746/124227636-40c68b00-dac8-11eb-8644-5ebd36cf2a0c.png "Pencelab Preview")
 
 </p>
-<p align="center" class="mb-2">
+<p align="center">
     <a href="https://pencelab.com" target="_blank">
         <img src="https://img.shields.io/badge/https://-pencelab.com-0091FF?style=flat" />
     </a>
