@@ -36,7 +36,7 @@ way.
 ---
 
 <div>
-    Find me at:
+    Find me on:
     <a href="https://www.linkedin.com/in/glenn-sandoval-vargas/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" align="center"/>
     </a>
